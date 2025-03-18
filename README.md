@@ -59,6 +59,21 @@ In order to ensure that the Laravel community is welcoming to all, please review
 
 ## Security Vulnerabilities
 
+
+About project
+===========
+ 1. In this project use react js,tailwind css,laravel and inertia js use for data upload ,routing
+ 2. I puted sort video in the public folder  this is video is half part of this project
+ 3. here is only code avlaible
+
+
+
+
+
+
+
+
+
 If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
 
 ## License
