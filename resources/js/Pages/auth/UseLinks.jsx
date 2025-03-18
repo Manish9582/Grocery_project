@@ -1,0 +1,60 @@
+  let useLink = [
+    {
+      'id': 1,
+      'links': 'About',
+      'url': '/about'
+    }, {
+      'id': 2,
+      'links': 'Careers',
+    }, {
+      'id': 3,
+      'links': 'Blog',
+    }, {
+      'id': 4,
+      'links': 'Press',
+    }, {
+      'id': 5,
+      'links': 'Lead',
+    }, {
+      'id': 6,
+      'links': 'Value',
+    }, {
+      'id': 7,
+      'links': 'Privacy',
+    }, {
+      'id': 8,
+      'links': 'Terms',
+    }, {
+      'id': 9,
+      'links': 'FAQs',
+    }, {
+      'id': 10,
+      'links': 'Security',
+    }, {
+      'id': 11,
+      'links': 'Mobile',
+    }, {
+      'id': 12,
+      'links': 'Contact',
+    }, {
+      'id': 13,
+      'links': 'Admin',
+      'url': '/form'
+    }, {
+      'id': 14,
+      'links': 'Franchise',
+    }, {
+      'id': 15,
+      'links': 'Seller',
+    }, {
+      'id': 16,
+      'links': 'Warehouse',
+    }, {
+      'id': 17,
+      'links': 'Deliver',
+    }, {
+      'id': 18,
+      'links': 'Resources',
+    },
+  ];
+  export default useLink;
